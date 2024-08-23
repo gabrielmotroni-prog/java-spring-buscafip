@@ -18,7 +18,6 @@ public class Principal {
         switch (carroDigitadoPeloUsuario) {
             case "carro" -> {
                 tipoVeiculoSelecionado = TipoVeiculo.CARROS;
-
             }
             case "moto" -> {
                 tipoVeiculoSelecionado = TipoVeiculo.MOTOS;
